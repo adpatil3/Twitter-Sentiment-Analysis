@@ -25,10 +25,10 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 
 #Credentials for Twitter API:
-consumer_key = 'JqT2xyA0sfTynbsXrR0IweG6r'
-consumer_secret = 'GIRA8hgUGBxZjGQSQSLtuWBqUADHBfLpk9wlQWCvcy3GdYmZyT'
-access_token = '821385287213445120-RSNgaT0noZ16anWmdZ5ur5W7bxoW6eD'
-access_token_secret = 'S4NjPxmPhbzHB5ELuPuCfDZTTidzyStkoGOBMuqr3ngCC'
+consumer_key = **************************
+consumer_secret = '**************************
+access_token = **************************
+access_token_secret = **************************
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
